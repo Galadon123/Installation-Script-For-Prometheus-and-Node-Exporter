@@ -1,6 +1,6 @@
 # Installation Script For Prometheus
 
-## Create script as `prometheus.sh` with following Content
+## Create a script as `prometheus.sh` with following Content
 
 ```bash
 #!/bin/bash
